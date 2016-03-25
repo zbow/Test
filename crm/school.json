@@ -1,0 +1,38 @@
+{
+    "code": 20200,
+    "msg": "成功",
+    "sys_time": "2016-03-08 10:22:20",
+    "data": {
+        "0": {
+            "name": "Windows10新政：不顾用户利益的微软真是“躺枪”？",
+            "img": "http://i.dazong.com/news/2016/01/25/289fb07fb53cf6ffaa0934d7abddd3e8.png",
+            "url": "http://172.16.10.220:8002/focus/information_detail?id=114",
+            "time": "2016-01-26"
+        },
+        "1": {
+            "name": "北京将投亿地铁大修八等等等等等等等等等等",
+            "img": "http://i.dazong.com/news/2016/01/28/efdeb144cd4f2c992b5592b58708c265.gif",
+            "url": "http://172.16.10.220:8002/focus/information_detail?id=115",
+            "time": "2016-01-26"
+        },
+        "2": {
+            "name": "河北“碰瓷男”海淀法院受审否认“往车前扑",
+            "img": "http://i.dazong.com/news/2016/01/25/0766d9d49e015a0a92e4de371b25b8d3.jpg",
+            "url": "http://172.16.10.220:8002/focus/information_detail?id=116",
+            "time": "2016-01-26"
+        },
+        "3": {
+            "name": "北京2016年有望出台一卡通改革方案",
+            "img": "http://i.dazong.com/news/2016/01/25/551d52908d4174d38c47508f87e5f150.png",
+            "url": "http://172.16.10.220:8002/focus/information_detail?id=117",
+            "time": "2016-01-26"
+        },
+        "4": {
+            "name": "北京西站20天“捡”",
+            "img": "http://i.dazong.com/news/2016/01/28/32758fa1c9b89ffc8fa9d79261e36dc2.jpg",
+            "url": "http://172.16.10.220:8002/focus/information_detail?id=118",
+            "time": "2016-01-26"
+        },
+        "totalPage": 3
+    }
+}
